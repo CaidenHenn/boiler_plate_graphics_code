@@ -1,0 +1,1 @@
+Some basic boiler plate WebGL code to get graphics projects started
